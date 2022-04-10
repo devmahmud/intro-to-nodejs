@@ -19,8 +19,8 @@ This is the course for anyone who wants to get started with Node fast. Some thin
 
 1. [What is Node js](./01.what-is-nodejs.md)
 2. [Installing Node.js](./02.installing-nodejs.md)
-3. Executing Node
-4. Globals
+3. [Executing Node](./03.executing-node.md)
+4. [Globals](04.globals.md)
 5. Modules
 6. File System
 7. Error Handling
