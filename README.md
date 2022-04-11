@@ -22,7 +22,7 @@ This is the course for anyone who wants to get started with Node fast. Some thin
 3. [Executing Node](./03.executing-node.md)
 4. [Globals](04.globals.md)
 5. [Modules](./05.modules.md)
-6. File System
+6. [File System](./06.file-system.md)
 7. Error Handling
 8. Packages
 9. CLIs
