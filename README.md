@@ -24,7 +24,7 @@ This is the course for anyone who wants to get started with Node fast. Some thin
 5. [Modules](./05.modules.md)
 6. [File System](./06.file-system.md)
 7. [Error Handling](./07.error-handling.md)
-8. Packages
+8. [Packages](./08.packages.md)
 9. CLIs
 10. Servers
 11. Testing
