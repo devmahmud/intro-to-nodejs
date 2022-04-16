@@ -27,5 +27,5 @@ This is the course for anyone who wants to get started with Node fast. Some thin
 8. [Packages](./08.packages.md)
 9. [CLIs](./09.clis.md)
 10. [Servers](10.servers.md)
-11. Testing
+11. [Testing](./11.testing.md)
 12. Deployment
